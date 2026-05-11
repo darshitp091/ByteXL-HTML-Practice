@@ -1,5 +1,5 @@
-#ByteXL
+# ByteXL
 
-##Practice session of Mern Stack Development
+## Practice session of Mern Stack Development
 
-###1st - HTML
+### 1st - HTML
